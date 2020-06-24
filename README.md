@@ -1,0 +1,2 @@
+# calculate_ip_range
+根据输入的IP地址和子网掩码自动计算可用IP范围
